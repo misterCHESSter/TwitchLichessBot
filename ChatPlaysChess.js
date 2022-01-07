@@ -19,10 +19,10 @@ var allowedToUseCommands = ['xSplasher','ChatPlaysChess_TV']; // Users allowed t
 var channelsToJoin = ['xSplasher']; // what channel you want the bot to join, you can put as many as you want in this list.
 
 
-var OAuthToken = 'oauth:PUT_YOUR_AUTH_KEY_HERE'// Put your twitch token here, to get one visit: https://twitchapps.com/tmi/
+var OAuthToken = 'oauth:mzpwtnp5yjfi0gz32lddu3za88m9it'// Put your twitch token here, to get one visit: https://twitchapps.com/tmi/
 
 
-var personalToken = 'YOUR_LICHESS_TOKEN '; // lichess token
+var personalToken = '12345678'; // lichess token
 
 
 
